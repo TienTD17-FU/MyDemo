@@ -1,0 +1,16 @@
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\bin\Debug\net5.0\DemoPRN211_All.exe
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\bin\Debug\net5.0\DemoPRN211_All.deps.json
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\bin\Debug\net5.0\DemoPRN211_All.runtimeconfig.json
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\bin\Debug\net5.0\DemoPRN211_All.runtimeconfig.dev.json
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\bin\Debug\net5.0\DemoPRN211_All.dll
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\bin\Debug\net5.0\DemoPRN211_All.pdb
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\DemoPRN211_All.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\DemoPRN211_All.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\DemoPRN211_All.AssemblyInfoInputs.cache
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\DemoPRN211_All.AssemblyInfo.cs
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\DemoPRN211_All.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\DemoPRN211_All.dll
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\refint\DemoPRN211_All.dll
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\DemoPRN211_All.pdb
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\DemoPRN211_All.genruntimeconfig.cache
+C:\Teaching\PRN211\Demo\DemoPRN211_All\DemoPRN211_All\obj\Debug\net5.0\ref\DemoPRN211_All.dll

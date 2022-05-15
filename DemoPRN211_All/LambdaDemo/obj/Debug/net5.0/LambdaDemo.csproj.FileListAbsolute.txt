@@ -1,0 +1,16 @@
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\LambdaDemo.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\LambdaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\LambdaDemo.AssemblyInfoInputs.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\LambdaDemo.AssemblyInfo.cs
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\LambdaDemo.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\bin\Debug\net5.0\LambdaDemo.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\bin\Debug\net5.0\LambdaDemo.deps.json
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\bin\Debug\net5.0\LambdaDemo.runtimeconfig.json
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\bin\Debug\net5.0\LambdaDemo.runtimeconfig.dev.json
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\bin\Debug\net5.0\LambdaDemo.dll
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\bin\Debug\net5.0\LambdaDemo.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\LambdaDemo.dll
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\refint\LambdaDemo.dll
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\LambdaDemo.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\LambdaDemo.genruntimeconfig.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\LambdaDemo\obj\Debug\net5.0\ref\LambdaDemo.dll

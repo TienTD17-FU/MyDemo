@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\ButtonEvent\bin\Debug\ButtonEvent.exe.config
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\ButtonEvent\bin\Debug\ButtonEvent.exe
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\ButtonEvent\bin\Debug\ButtonEvent.pdb
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\ButtonEvent\obj\Debug\ButtonEvent.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\ButtonEvent\obj\Debug\ButtonEvent.exe
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\ButtonEvent\obj\Debug\ButtonEvent.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\ButtonEvent\bin\Debug\ButtonEvent.exe.config
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\ButtonEvent\bin\Debug\ButtonEvent.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\ButtonEvent\bin\Debug\ButtonEvent.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\ButtonEvent\obj\Debug\ButtonEvent.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\ButtonEvent\obj\Debug\ButtonEvent.csproj.SuggestedBindingRedirects.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\ButtonEvent\obj\Debug\ButtonEvent.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\ButtonEvent\obj\Debug\ButtonEvent.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\ButtonEvent\obj\Debug\ButtonEvent.pdb

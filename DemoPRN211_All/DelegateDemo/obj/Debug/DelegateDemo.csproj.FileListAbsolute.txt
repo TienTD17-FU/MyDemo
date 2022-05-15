@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\DelegateDemo\bin\Debug\DelegateDemo.exe
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\DelegateDemo\bin\Debug\DelegateDemo.pdb
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\DelegateDemo\obj\Debug\DelegateDemo.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\DelegateDemo\obj\Debug\DelegateDemo.exe
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\DelegateDemo\obj\Debug\DelegateDemo.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\DelegateDemo\obj\Debug\DelegateDemo.csproj.SuggestedBindingRedirects.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\DelegateDemo\obj\Debug\DelegateDemo.pdb

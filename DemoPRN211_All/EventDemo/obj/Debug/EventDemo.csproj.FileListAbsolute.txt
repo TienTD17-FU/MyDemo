@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\EventDemo\bin\Debug\EventDemo.exe.config
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\EventDemo\bin\Debug\EventDemo.exe
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\EventDemo\bin\Debug\EventDemo.pdb
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\EventDemo\obj\Debug\EventDemo.exe
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\EventDemo\obj\Debug\EventDemo.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\EventDemo\bin\Debug\EventDemo.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\EventDemo\bin\Debug\EventDemo.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\EventDemo\obj\Debug\EventDemo.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\EventDemo\obj\Debug\EventDemo.csproj.SuggestedBindingRedirects.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\EventDemo\obj\Debug\EventDemo.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\EventDemo\obj\Debug\EventDemo.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\EventDemo\obj\Debug\EventDemo.pdb

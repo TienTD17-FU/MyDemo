@@ -1,0 +1,12 @@
+C:\Teaching\PRN292\PRN292_Demo\CsApp_SE1406\Language\bin\Debug\Language.exe
+C:\Teaching\PRN292\PRN292_Demo\CsApp_SE1406\Language\bin\Debug\Language.pdb
+C:\Teaching\PRN292\PRN292_Demo\CsApp_SE1406\Language\obj\Debug\Language.csprojAssemblyReference.cache
+C:\Teaching\PRN292\PRN292_Demo\CsApp_SE1406\Language\obj\Debug\Language.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN292\PRN292_Demo\CsApp_SE1406\Language\obj\Debug\Language.exe
+C:\Teaching\PRN292\PRN292_Demo\CsApp_SE1406\Language\obj\Debug\Language.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\Language\bin\Debug\Language.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\Language\bin\Debug\Language.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\Language\obj\Debug\Language.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\Language\obj\Debug\Language.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\Language\obj\Debug\Language.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\Language\obj\Debug\Language.pdb

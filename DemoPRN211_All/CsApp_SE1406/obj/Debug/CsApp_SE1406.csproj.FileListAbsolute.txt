@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\CsApp_SE1406\bin\Debug\CsApp_SE1406.exe.config
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\CsApp_SE1406\bin\Debug\CsApp_SE1406.exe
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\CsApp_SE1406\bin\Debug\CsApp_SE1406.pdb
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\CsApp_SE1406\obj\Debug\CsApp_SE1406.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\CsApp_SE1406\obj\Debug\CsApp_SE1406.exe
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\CsApp_SE1406\obj\Debug\CsApp_SE1406.pdb

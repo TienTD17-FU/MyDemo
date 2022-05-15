@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\PRN292_Demo\CsApp_SE1406\OOP\bin\Debug\OOP.exe.config
+C:\Teaching\PRN292\PRN292_Demo\CsApp_SE1406\OOP\bin\Debug\OOP.exe.config
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\OOP\bin\Debug\OOP.exe.config
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\OOP\bin\Debug\OOP.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\OOP\bin\Debug\OOP.pdb
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\OOP\obj\Debug\OOP.exe
+C:\Teaching\PRN211\Demo\MyDemo\DemoPRN211_All\OOP\obj\Debug\OOP.pdb
